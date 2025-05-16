@@ -1,5 +1,9 @@
 # Voxify: Global Music Lyric Translation Platform
 
+![Voxify Homepage](docs/voxify-homepage.png)
+
+*Voxify - Discover music beyond language barriers*
+
 ## Overview
 
 Voxify is a global community-driven platform that bridges the gap between music lovers and lyrical understanding across languages. Our mission is to make the beauty of music accessible to everyone, regardless of linguistic barriers, by providing high-quality, community-contributed lyric translations in multiple languages.
